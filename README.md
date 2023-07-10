@@ -6,7 +6,7 @@ This is a landing page for the BakerLab store. The Creative Bakery Landing Page 
 **Live Preview**
 
 
-You can view a live demo of the website [HERE](https://rafmamedov.github.io/creative-bakery/)
+You can view a live demo of the website [HERE](https://rafmamedov.github.io/layout_creativeBakery/)
 
 Landing page was implemented according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342%3A1117&mode=dev)
 
